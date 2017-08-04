@@ -1,0 +1,141 @@
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps14  :10261453870416789518: pdgid =    22, status =   1, q =  0, e =   2.2, theta = -0.37, phi = -2.52, mass =  0.00
+with vertex rho= 2.23, z=-0.77
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+event 100 (13.3 ev/s)
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps9   :10261464829447372809: pdgid =    22, status =   1, q =  0, e =   3.5, theta =  0.87, phi = -1.72, mass =  0.00
+with vertex rho= 1.64, z= 1.86
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+event 200 (14.8 ev/s)
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps13  :10261455875071803405: pdgid =   211, status =   1, q =  1, e =   2.5, theta = -0.54, phi = -0.74, mass =  0.14
+with vertex rho= 4.14, z=-2.61
+cannot be extrapolated to : SurfaceCylinder : hcal_in, R= 1.90, z= 2.60
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps6   :10261481701731467270: pdgid =    22, status =   1, q =  0, e =   6.8, theta = -0.04, phi = -0.39, mass =  0.00
+with vertex rho= 2.07, z=-0.11
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+event 300 (16.2 ev/s)
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps11  :10261468212300349451: pdgid =    22, status =   1, q =  0, e =   3.9, theta =  0.64, phi =  3.02, mass =  0.00
+with vertex rho= 1.45, z= 1.16
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps17  :10261440895020695569: pdgid =    22, status =   1, q =  0, e =   1.4, theta = -0.87, phi = -2.68, mass =  0.00
+with vertex rho= 1.31, z=-1.81
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+event 400 (16.8 ev/s)
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps3   :10261502786170519555: pdgid = -2112, status =   1, q =  0, e =  15.2, theta =  0.04, phi = -2.99, mass =  0.94
+with vertex rho= 4.53, z= 0.17
+cannot be extrapolated to : SurfaceCylinder : hcal_in, R= 1.90, z= 2.60
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+event 500 (16.8 ev/s)
+event 600 (16.9 ev/s)
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps6   :10261479703816699910: pdgid =    22, status =   1, q =  0, e =   6.4, theta =  0.72, phi =  1.86, mass =  0.00
+with vertex rho= 3.00, z= 2.66
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps6   :10261471777098039302: pdgid =    22, status =   1, q =  0, e =   4.6, theta =  1.33, phi = -2.54, mass =  0.00
+with vertex rho= 0.54, z= 2.27
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+event 700 (17.0 ev/s)
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps27  :10261409018385793051: pdgid =    22, status =   1, q =  0, e =   0.4, theta =  1.16, phi =  1.68, mass =  0.00
+with vertex rho= 0.39, z= 2.17
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps11  :10261460466605752331: pdgid =   211, status =   1, q =  1, e =   3.0, theta = -0.46, phi = -2.16, mass =  0.14
+with vertex rho= 4.08, z=-1.92
+cannot be extrapolated to : SurfaceCylinder : hcal_in, R= 1.90, z= 2.60
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps2   :10261514559015616514: pdgid =  2112, status =   1, q =  0, e =  25.1, theta = -0.32, phi =  1.60, mass =  0.94
+with vertex rho= 4.32, z=-1.43
+cannot be extrapolated to : SurfaceCylinder : hcal_in, R= 1.90, z= 2.60
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded
+event 800 (17.2 ev/s)
+event 900 (17.0 ev/s)
+
+Component: ee_ZH_Z_Hgamgam
+	dataset_entries:   0
+	files          :   ['ee_ZH_Z_Hgamgam_0.root']
+	isData         :   False
+	isEmbed        :   False
+	isMC           :   False
+	tree_name      :   None
+	triggers       :   None
+
+
+      ---- TimeReport (all times in ms; first evt is skipped) ---- 
+processed    all evts    time/proc    time/all   [%]    analyer
+---------    --------    ---------   ---------  -----   -------------
+     1000        1000         9.49        9.49  16.3%   heppy.analyzers.fcc.Reader.Reader_1
+     1000        1000         0.16        0.16   0.3%   heppy.analyzers.Selector.Selector_1
+     1000        1000        24.76       24.76  42.6%   heppy.analyzers.PapasSim.PapasSim_papas
+      988        1000        11.70       11.56  19.9%   heppy.analyzers.PapasPFBlockBuilder.PapasPFBlockBuilder_1
+      988        1000         9.99        9.87  17.0%   heppy.analyzers.PapasPFReconstructor.PapasPFReconstructor_1
+      988        1000         0.05        0.05   0.1%   heppy.analyzers.Selector.Selector_photons
+      988        1000         1.66        1.64   2.8%   heppy.analyzers.IsolationAnalyzer.IsolationAnalyzer_1
+      988        1000         0.02        0.02   0.0%   heppy.analyzers.Selector.Selector_high_E_photons
+      988        1000         0.01        0.01   0.0%   heppy.analyzers.Selector.Selector_high_E_sel_iso_photons
+      988        1000         0.10        0.09   0.2%   heppy.analyzers.RecoilBuilder.RecoilBuilder_missing_energy
+      988        1000         0.05        0.05   0.1%   heppy.analyzers.examples.zh_hgamgam.Selection.Selection_1
+      516        1000         0.69        0.36   0.6%   heppy.analyzers.examples.zh_hgamgam.HReconstruction.HReconstruction_1
+      516        1000         0.18        0.09   0.2%   heppy.analyzers.examples.zh_hgamgam.TreeProducer.TreeProducer_1
+      516        1000         0.00        0.00   0.0%   heppy.analyzers.PapasDisplay.PapasDisplay_papas
+---------    --------    ---------   ---------   -------------
+      516        1000       112.81       58.16 100.0%   TOTAL
+
+Counter analyzers :
+	 heppy.analyzers.fcc.Reader.Reader_1                               1000 	 1.00 	 1.0000
+	 heppy.analyzers.Selector.Selector_1                               1000 	 1.00 	 1.0000
+	 heppy.analyzers.PapasSim.PapasSim_papas                            988 	 0.99 	 0.9880
+	 heppy.analyzers.PapasPFBlockBuilder.PapasPFBlockBuilder_1          988 	 1.00 	 0.9880
+	 heppy.analyzers.PapasPFReconstructor.PapasPFReconstructor_1        988 	 1.00 	 0.9880
+	 heppy.analyzers.Selector.Selector_photons                          988 	 1.00 	 0.9880
+	 heppy.analyzers.IsolationAnalyzer.IsolationAnalyzer_1              988 	 1.00 	 0.9880
+	 heppy.analyzers.Selector.Selector_high_E_photons                   988 	 1.00 	 0.9880
+	 heppy.analyzers.Selector.Selector_high_E_sel_iso_photons           988 	 1.00 	 0.9880
+	 heppy.analyzers.RecoilBuilder.RecoilBuilder_missing_energy         988 	 1.00 	 0.9880
+	 heppy.analyzers.examples.zh_hgamgam.Selection.Selection_1          516 	 0.52 	 0.5160
+	 heppy.analyzers.examples.zh_hgamgam.HReconstruction.HReconstruction_1       516 	 1.00 	 0.5160
+	 heppy.analyzers.examples.zh_hgamgam.TreeProducer.TreeProducer_1       516 	 1.00 	 0.5160
+	 heppy.analyzers.PapasDisplay.PapasDisplay_papas                    516 	 1.00 	 0.5160
+
+number of events processed: 1000

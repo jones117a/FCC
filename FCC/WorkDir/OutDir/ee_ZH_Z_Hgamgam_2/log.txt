@@ -1,0 +1,7 @@
+
+SimulationError : cannot make cluster for particle: 
+particle: Particle :ps14  :10261453870416789518: pdgid =    22, status =   1, q =  0, e =   2.2, theta = -0.37, phi = -2.52, mass =  0.00
+with vertex rho= 2.23, z=-0.77
+cannot be extrapolated to : SurfaceCylinder : ecal_in, R= 1.30, z= 2.00
+
+Particle not extrapolated to the detector, so cannot make a cluster there. No worries for now, problem will be solved :-) -> Event discarded

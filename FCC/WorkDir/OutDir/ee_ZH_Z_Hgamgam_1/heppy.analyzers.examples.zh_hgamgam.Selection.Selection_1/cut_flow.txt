@@ -1,0 +1,8 @@
+Counter cut_flow :
+	 All events                                                         988 	 1.00 	 1.0000
+	 2 or more photons                                                  962 	 0.97 	 0.9737
+	 2 or more photons with E > 40 GeV                                  921 	 0.96 	 0.9322
+	 isolated photons                                                   914 	 0.99 	 0.9251
+	 eta < 1.8                                                          646 	 0.71 	 0.6538
+	 No Z decays to neutrinos                                           516 	 0.80 	 0.5223
+
