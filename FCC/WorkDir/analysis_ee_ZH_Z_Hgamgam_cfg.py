@@ -104,36 +104,12 @@ high_E_sel_iso_photons = cfg.Analyzer(
     filter_func = is_isolated
 ) # Rejecting events that contain a loosely isolated photon
 
-##Instead of using an event filter at this stage, we store in the tree
-##the photon with lowest energy (with the name photon1)
-##
-##from heppy.analyzers.EventFilter import EventFilter
-##photon_veto = cfg.Analyzer(
-##    EventFilter,
-##    'photon_veto',
-##    input_objects='sel_iso_photons',
-##    min_number=1,
-##    veto=True
-##)
-
-#Compute missing 4-momentum.
-from heppy.analyzers.RecoilBuilder import RecoilBuilder
-missing_energy = cfg.Analyzer(
-    RecoilBuilder,
-    instance_label = 'missing_energy',
-    output = 'missing_energy',
-    sqrts = Collider.SQRTS,
-    to_remove = 'rec_particles'
-)
-
 # reconstruction of the H resonance.
-from heppy.analyzers.examples.zh_hgamgam.HReconstruction import HReconstruction
+from heppy.analyzers.examples.zh_hgamgam.HReconstruction_Test import HReconstruction
 hreco = cfg.Analyzer(
     HReconstruction,
     output_higgs='higgs',
     input_photons='high_E_sel_iso_photons',
-    input_missing_energy='missing_energy',
-    input_objects='rec_particles'
 )
 
 # simple cut flow printout
@@ -161,8 +137,6 @@ sequence = cfg.Sequence(
     iso_photons,
     high_E_photons,
     high_E_sel_iso_photons,
-#    photon_veto,
-    missing_energy,
     hreco, 
     selection,  
     tree,

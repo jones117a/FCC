@@ -21,7 +21,7 @@ Beams:idA = 11                   ! first beam, p = 2212, pbar = -2212
 Beams:idB = -11                   ! second beam, p = 2212, pbar = -2212
 
 
-! 4) Hard process : ZH, Z->mumu, H->bb, at 240 GeV
+! 4) Hard process : ZH, Z->any, H->gamgam, at 240 GeV
 
 Beams:eCM = 240.                 ! CM energy of collision
 

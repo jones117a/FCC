@@ -4,10 +4,10 @@ import os, random
 
 print 'PLease enter a process:'
 process = raw_input()
-n_samples = 1
+n_samples = 2
 nevt_per_sample = 1000
 
-for x in range(0, n_samples):
+for x in range(1, n_samples):
 
     print 'Generating random seed.'
     seed = random.randint(99999,999999)
