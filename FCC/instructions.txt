@@ -1,5 +1,5 @@
 
-.chafourcd .## Make new analysis directory
+# Make new analysis directory
 mkdir FCC
 cd FCC
 
@@ -45,3 +45,27 @@ heppy OutDir analysis_ee_ZH_cfg.py -N 1000
 # Generate events as before!
 
 # How do you need to modify the analysis code to select this new signal process?
+
+# PARALLEL PROCESSING
+
+# Generate events:
+mkdir BatchDir
+cd !$
+cp /afs/cern.ch/user/k/kbehr/public/FCCAnalysis/batch_launch_gen.sh .
+cp /afs/cern.ch/user/k/kbehr/public/FCCAnalysis/generate.py .
+cp /afs/cern.ch/user/k/kbehr/public/FCCAnalysis/ee_ZH_Z_Hgamgam.txt .
+
+# Note that ee_ZH_Z_Hgamgam.txt has been updated in two places:
+# 1) added random seeds, 2) added beam energy smearing
+
+# Update batch_launch_gen.sh to point to your BatchDir and AFS directories
+
+# Launch the generation
+python generate.py
+
+# You can check the job status via
+bjobs
+
+# Inspect the output files
+# Make sure they have slightly different size.
+# If the sizes are exactly the same, they had the same random seed.

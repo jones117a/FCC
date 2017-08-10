@@ -1,0 +1,7 @@
+Counter cut_flow :
+	 All events                                                       39350 	 1.00 	 1.0000
+	 2 or more photons                                                38473 	 0.98 	 0.9777
+	 2 or more photons with E > 40 GeV                                36465 	 0.95 	 0.9267
+	 isolated photons                                                 34957 	 0.96 	 0.8884
+	 eta < 1.8                                                        25093 	 0.72 	 0.6377
+

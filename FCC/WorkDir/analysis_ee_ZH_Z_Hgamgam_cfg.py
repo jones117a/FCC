@@ -32,12 +32,13 @@ Collider.BEAMS = 'ee'
 Collider.SQRTS = 240.
 
 # input definition
-print 'Enter a batch number:'
-x = raw_input()
 comp = cfg.Component(
     'ee_ZH_Z_Hgamgam',
     files = [
-        'ee_ZH_Z_Hgamgam_'+str(x)+'.root'
+        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_0.root',
+        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_1.root',
+        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_2.root',
+        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_3.root'
     ]
 )
 selectedComponents = [comp]
@@ -86,7 +87,7 @@ iso_photons = cfg.Analyzer(
     IsolationAnalyzer,
     candidates = 'photons',
     particles = 'rec_particles',
-    iso_area = EtaPhiCircle(0.2)
+    iso_area = EtaPhiCircle(0.4)
 )
 
 # Select isolated photons with a Selector
@@ -94,7 +95,7 @@ def is_isolated(pho):
     '''returns true if the particles around the photon
     in the EtaPhiCircle defined above carry less than 30%
     of the photon energy.'''
-    return pho.iso.sume/pho.e()<0.3  # fairly loose
+    return pho.iso.sume/pho.e()<0.2  # fairly loose
 
 high_E_sel_iso_photons = cfg.Analyzer(
     Selector,
@@ -102,14 +103,15 @@ high_E_sel_iso_photons = cfg.Analyzer(
     output = 'high_E_sel_iso_photons',
     input_objects = 'high_E_photons',
     filter_func = is_isolated
-) # Rejecting events that contain a loosely isolated photon
-
+) # Rejecting events that contain a loosely isolated photon 
 # reconstruction of the H resonance.
-from heppy.analyzers.examples.zh_hgamgam.HReconstruction_Test import HReconstruction
+from heppy.analyzers.examples.zh_hgamgam.HReconstruction import HReconstruction
 hreco = cfg.Analyzer(
     HReconstruction,
-    output_higgs='higgs',
-    input_photons='high_E_sel_iso_photons',
+    output_higgs = 'higgs',
+    output_lead_photon = 'lead_photon',
+    output_sub_lead_photon = 'sub_lead_photon',
+    input_photons = 'high_E_sel_iso_photons'
 )
 
 # simple cut flow printout
@@ -117,15 +119,16 @@ from heppy.analyzers.examples.zh_hgamgam.Selection import Selection
 selection = cfg.Analyzer(
     Selection,
     input_photons = 'photons',
-    log_level=logging.INFO
+    log_level = logging.INFO
 )
 
 # Analysis-specific ntuple producer
 from heppy.analyzers.examples.zh_hgamgam.TreeProducer import TreeProducer
 tree = cfg.Analyzer(
     TreeProducer,
-    higgs='higgs',
-    photons='high_E_sel_iso_photons'
+    higgs = 'higgs',
+    lead_photon = 'lead_photon',
+    sub_lead_photon = 'sub_lead_photon'
 )
 
 # definition of the sequence of analyzers,
