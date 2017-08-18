@@ -1,0 +1,8 @@
+Counter cut_flow :
+	 All events                                                       34067 	 1.00 	 1.0000
+	 2 or more photons                                                34067 	 1.00 	 1.0000
+	 2 or more photons with E > 40 GeV                                34067 	 1.00 	 1.0000
+	 isolated photons                                                 34057 	 1.00 	 0.9997
+	 photon eta < 1.8                                                 24366 	 0.72 	 0.7152
+	 Higgs phi < 25 deg                                               23552 	 0.97 	 0.6913
+

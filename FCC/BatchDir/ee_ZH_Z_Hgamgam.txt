@@ -24,7 +24,7 @@ Random:seed = 0	                   ! Batch script should overwrite this
 Beams:idA = 11                   ! first beam, p = 2212, pbar = -2212
 Beams:idB = -11                   ! second beam, p = 2212, pbar = -2212
 
-Beams:allowMomentumSpread = on
+Beams:allowMomentumSpread = off
 Beams:sigmaPzA = 0.144
 Beams:sigmaPzB = 0.144
 
@@ -33,6 +33,6 @@ Beams:sigmaPzB = 0.144
 Beams:eCM = 240.                 ! CM energy of collision
 
 HiggsSM:ffbar2HZ = on
+
 25:onMode = off
 25:onIfMatch = 22 22
-

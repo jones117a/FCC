@@ -5,14 +5,14 @@
 
 void Higgs_plots()
 {
-    TFile * Tree_File = new TFile("OutDir_1/ee_ZH_Z_Hgamgam_2/heppy.analyzers.examples.zh_hgamgam.TreeProducer.TreeProducer_1/tree.root", "Read");
+    TFile * Tree_File = new TFile("OutDir_background/ee_Zgam_hadronic_2/heppy.analyzers.examples.zgam_hadronic.TreeProducer.TreeProducer_1/tree.root", "Read");
     TTree * Tree = (TTree*)Tree_File->Get("events");
 
-    TH1F * higgs_mass_hist = new TH1F("higgs_mass", "Mass of reconstructed Higgs particles", 300, 110, 140);
-    TH1F * higgs_eta_hist = new TH1F("higgs_eta", "Pseudorapidity of reconstructed Higgs particles", 200, -10, 10);
-    TH1F * higgs_phi_hist = new TH1F("higgs_phi", "Angle of reconstructed Higgs particles from beam axis", 200, -10, 10);
-    TH1F * lead_photon_pt_hist = new TH1F("lead_photon_pt_hist", "Pt of leading photon in event", 160, 20, 100);
-    TH1F * sub_lead_photon_pt_hist = new TH1F("sub_lead_photon_pt_hist", "Pt of sub-leading photon in event", 220, 0, 110);
+    TH1F * higgs_mass_hist = new TH1F("higgs_mass", "Mass of reconstructed Higgs particles", 100, 110, 140);
+    TH1F * higgs_eta_hist = new TH1F("higgs_eta", "Pseudorapidity of reconstructed Higgs particles", 100, -6, 6);
+    TH1F * higgs_phi_hist = new TH1F("higgs_phi", "Angle of reconstructed Higgs particles from beam axis", 100, -4, 4);
+    TH1F * lead_photon_pt_hist = new TH1F("lead_photon_pt_hist", "Pt of leading photon in event", 100, 20, 120);
+    TH1F * sub_lead_photon_pt_hist = new TH1F("sub_lead_photon_pt_hist", "Pt of sub-leading photon in event", 100, 0, 80);
 
     Tree->SetBranchStatus("*", 0);
     Tree->SetBranchStatus("higgs_m", 1);
@@ -79,6 +79,6 @@ void Higgs_plots()
 
     c1->Update();
     c1->Draw();
-    c1->Print("ee_ZH_Z_Hgamgam_run_01_Histograms.pdf");
+    c1->Print("ee_Zgam_hadronic_run_01_Histograms.pdf");
     return;
 }

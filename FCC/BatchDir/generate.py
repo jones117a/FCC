@@ -2,9 +2,9 @@
 
 import os, random
 
-process = 'ee_ZH_Z_Hgamgam'
+process = 'ee_Zgam_full'
 target = ''
-n_samples = 4
+n_samples = 100
 nevt_per_sample = 10000
 
 for x in range(0, n_samples):

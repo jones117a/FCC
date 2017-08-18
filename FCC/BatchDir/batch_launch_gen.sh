@@ -2,7 +2,7 @@
 echo "Current directory:"
 pwd
 
-cd /afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/
+cd /afs/cern.ch/work/e/eljones/public/FCCSamples/full_background_run_01/
 
 pwd
 

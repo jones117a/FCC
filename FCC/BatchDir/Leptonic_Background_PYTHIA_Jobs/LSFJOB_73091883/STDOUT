@@ -1,0 +1,720 @@
+@(#)CERN job starter $Date: 2010/06/23 14:22:16 $
+Working directory is </pool/lsf/eljones/73091883> on <b616159088.cern.ch>
+
+Current directory:
+/pool/lsf/eljones/73091883
+/afs/cern.ch/work/e/eljones/public/FCCSamples/full_background_run_01
+ee_Zgam_leptonic_0.root
+ee_Zgam_leptonic_0.txt
+ee_Zgam_leptonic_10.root
+ee_Zgam_leptonic_10.txt
+ee_Zgam_leptonic_11.root
+ee_Zgam_leptonic_11.txt
+ee_Zgam_leptonic_12.root
+ee_Zgam_leptonic_12.txt
+ee_Zgam_leptonic_13.root
+ee_Zgam_leptonic_13.txt
+ee_Zgam_leptonic_14.root
+ee_Zgam_leptonic_14.txt
+ee_Zgam_leptonic_15.root
+ee_Zgam_leptonic_15.txt
+ee_Zgam_leptonic_16.root
+ee_Zgam_leptonic_16.txt
+ee_Zgam_leptonic_17.root
+ee_Zgam_leptonic_17.txt
+ee_Zgam_leptonic_18.root
+ee_Zgam_leptonic_18.txt
+ee_Zgam_leptonic_19.root
+ee_Zgam_leptonic_19.txt
+ee_Zgam_leptonic_1.root
+ee_Zgam_leptonic_1.txt
+ee_Zgam_leptonic_20.root
+ee_Zgam_leptonic_20.txt
+ee_Zgam_leptonic_21.root
+ee_Zgam_leptonic_21.txt
+ee_Zgam_leptonic_22.root
+ee_Zgam_leptonic_22.txt
+ee_Zgam_leptonic_23.root
+ee_Zgam_leptonic_23.txt
+ee_Zgam_leptonic_24.root
+ee_Zgam_leptonic_24.txt
+ee_Zgam_leptonic_25.root
+ee_Zgam_leptonic_25.txt
+ee_Zgam_leptonic_26.root
+ee_Zgam_leptonic_26.txt
+ee_Zgam_leptonic_27.root
+ee_Zgam_leptonic_27.txt
+ee_Zgam_leptonic_28.root
+ee_Zgam_leptonic_28.txt
+ee_Zgam_leptonic_29.root
+ee_Zgam_leptonic_29.txt
+ee_Zgam_leptonic_2.root
+ee_Zgam_leptonic_2.txt
+ee_Zgam_leptonic_30.root
+ee_Zgam_leptonic_30.txt
+ee_Zgam_leptonic_31.root
+ee_Zgam_leptonic_31.txt
+ee_Zgam_leptonic_32.root
+ee_Zgam_leptonic_32.txt
+ee_Zgam_leptonic_33.root
+ee_Zgam_leptonic_33.txt
+ee_Zgam_leptonic_34.root
+ee_Zgam_leptonic_34.txt
+ee_Zgam_leptonic_35.root
+ee_Zgam_leptonic_35.txt
+ee_Zgam_leptonic_36.txt
+ee_Zgam_leptonic_37.root
+ee_Zgam_leptonic_37.txt
+ee_Zgam_leptonic_38.root
+ee_Zgam_leptonic_38.txt
+ee_Zgam_leptonic_39.root
+ee_Zgam_leptonic_39.txt
+ee_Zgam_leptonic_3.root
+ee_Zgam_leptonic_3.txt
+ee_Zgam_leptonic_40.root
+ee_Zgam_leptonic_40.txt
+ee_Zgam_leptonic_41.root
+ee_Zgam_leptonic_41.txt
+ee_Zgam_leptonic_42.root
+ee_Zgam_leptonic_42.txt
+ee_Zgam_leptonic_43.root
+ee_Zgam_leptonic_43.txt
+ee_Zgam_leptonic_44.root
+ee_Zgam_leptonic_44.txt
+ee_Zgam_leptonic_45.root
+ee_Zgam_leptonic_45.txt
+ee_Zgam_leptonic_46.root
+ee_Zgam_leptonic_46.txt
+ee_Zgam_leptonic_47.root
+ee_Zgam_leptonic_47.txt
+ee_Zgam_leptonic_48.root
+ee_Zgam_leptonic_48.txt
+ee_Zgam_leptonic_49.root
+ee_Zgam_leptonic_49.txt
+ee_Zgam_leptonic_4.root
+ee_Zgam_leptonic_4.txt
+ee_Zgam_leptonic_50.root
+ee_Zgam_leptonic_50.txt
+ee_Zgam_leptonic_51.txt
+ee_Zgam_leptonic_52.root
+ee_Zgam_leptonic_52.txt
+ee_Zgam_leptonic_53.root
+ee_Zgam_leptonic_53.txt
+ee_Zgam_leptonic_54.root
+ee_Zgam_leptonic_54.txt
+ee_Zgam_leptonic_55.root
+ee_Zgam_leptonic_55.txt
+ee_Zgam_leptonic_56.root
+ee_Zgam_leptonic_56.txt
+ee_Zgam_leptonic_57.root
+ee_Zgam_leptonic_57.txt
+ee_Zgam_leptonic_58.root
+ee_Zgam_leptonic_58.txt
+ee_Zgam_leptonic_59.root
+ee_Zgam_leptonic_59.txt
+ee_Zgam_leptonic_5.root
+ee_Zgam_leptonic_5.txt
+ee_Zgam_leptonic_60.root
+ee_Zgam_leptonic_60.txt
+ee_Zgam_leptonic_61.root
+ee_Zgam_leptonic_61.txt
+ee_Zgam_leptonic_62.root
+ee_Zgam_leptonic_62.txt
+ee_Zgam_leptonic_63.root
+ee_Zgam_leptonic_63.txt
+ee_Zgam_leptonic_64.root
+ee_Zgam_leptonic_64.txt
+ee_Zgam_leptonic_65.root
+ee_Zgam_leptonic_65.txt
+ee_Zgam_leptonic_66.txt
+ee_Zgam_leptonic_68.txt
+ee_Zgam_leptonic_69.root
+ee_Zgam_leptonic_69.txt
+ee_Zgam_leptonic_6.root
+ee_Zgam_leptonic_6.txt
+ee_Zgam_leptonic_71.root
+ee_Zgam_leptonic_71.txt
+ee_Zgam_leptonic_72.txt
+ee_Zgam_leptonic_7.root
+ee_Zgam_leptonic_7.txt
+ee_Zgam_leptonic_8.root
+ee_Zgam_leptonic_8.txt
+ee_Zgam_leptonic_9.root
+ee_Zgam_leptonic_9.txt
+Will source FCC environment now
+[WARNING] invalid input, defaulting to x86_64-slc6-gcc62
+Platform detected: x86_64-slc6-gcc62
+Software taken from /cvmfs/fcc.cern.ch/sw/0.8.1 and /cvmfs/sft.cern.ch/lcg/views/LCG_88/x86_64-slc6-gcc62-opt
+/cvmfs/fcc.cern.ch/sw/0.8.1/fcc-physics/0.2.1/x86_64-slc6-gcc62-opt/bin:/cvmfs/sft.cern.ch/lcg/releases/LCG_88/DD4hep/00-20/x86_64-slc6-gcc62-opt/bin:/cvmfs/sft.cern.ch/lcg/releases/Geant4/10.02.p02-31b2c/x86_64-slc6-gcc62-opt/bin:/cvmfs/sft.cern.ch/lcg/releases/ROOT/6.08.06-c8fb4/x86_64-slc6-gcc62-opt/bin:/cvmfs/sft.cern.ch/lcg/views/LCG_88/x86_64-slc6-gcc62-opt/bin:/cvmfs/sft.cern.ch/lcg/contrib/gcc/6.2/x86_64-slc6/bin:/afs/cern.ch/atlas/scripts:/afs/cern.ch/user/e/eljones/scripts:/bin:/usr/bin:/usr/sue/bin:/usr/lib64/qt-3.3/bin:/usr/kerberos/sbin:/usr/kerberos/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin:/sbin:/opt/puppetlabs/bin:/afs/cern.ch/user/e/eljones/bin:/afs/cern.ch/user/e/eljones/private/hgamgam_analysis/FCC/BatchDir
+start processing
+output file: ee_Zgam_leptonic_97.root
+
+ *------------------------------------------------------------------------------------* 
+ |                                                                                    | 
+ |  *------------------------------------------------------------------------------*  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  |   PPP   Y   Y  TTTTT  H   H  III    A      Welcome to the Lund Monte Carlo!  |  | 
+ |  |   P  P   Y Y     T    H   H   I    A A     This is PYTHIA version 8.226      |  | 
+ |  |   PPP     Y      T    HHHHH   I   AAAAA    Last date of change: 26 Apr 2017  |  | 
+ |  |   P       Y      T    H   H   I   A   A                                      |  | 
+ |  |   P       Y      T    H   H  III  A   A    Now is 16 Aug 2017 at 15:12:56    |  | 
+ |  |                                                                              |  | 
+ |  |   Torbjorn Sjostrand;  Department of Astronomy and Theoretical Physics,      |  | 
+ |  |      Lund University, Solvegatan 14A, SE-223 62 Lund, Sweden;                |  | 
+ |  |      e-mail: torbjorn@thep.lu.se                                             |  | 
+ |  |   Nishita Desai;  Laboratoire Charles Coulomb (L2C),                         |  | 
+ |  |      CNRS-Universite de Montpellier, 34090 Montpellier, France;              |  | 
+ |  |      e-mail: nishita.desai@umontpellier.fr                                   |  | 
+ |  |   Nadine Fischer;  School of Physics,                                        |  | 
+ |  |      Monash University, PO Box 27, 3800 Melbourne, Australia;                |  | 
+ |  |      e-mail: nadine.fischer@monash.edu                                       |  | 
+ |  |   Ilkka Helenius;  Institute for Theoretical Physics,                        |  | 
+ |  |     Tuebingen University, Auf der Morgenstelle 14, 72076 Tuebingen, Germany; |  | 
+ |  |      e-mail: ilkka.helenius@uni-tuebingen.de                                 |  | 
+ |  |   Philip Ilten;  Massachusetts Institute of Technology,                      |  | 
+ |  |      77 Massachusetts Ave, Cambridge, MA 02139, USA;                         |  | 
+ |  |      e-mail: philten@cern.ch                                                 |  | 
+ |  |   Leif Lonnblad;  Department of Astronomy and Theoretical Physics,           |  | 
+ |  |      Lund University, Solvegatan 14A, SE-223 62 Lund, Sweden;                |  | 
+ |  |      e-mail: leif.lonnblad@thep.lu.se                                        |  | 
+ |  |   Stephen Mrenna;  Computing Division, Simulations Group,                    |  | 
+ |  |      Fermi National Accelerator Laboratory, MS 234, Batavia, IL 60510, USA;  |  | 
+ |  |      e-mail: mrenna@fnal.gov                                                 |  | 
+ |  |   Stefan Prestel;  Theoretical Physics Department,                           |  | 
+ |  |      Fermi National Accelerator Laboratory, MS 106, Batavia, IL 60510, USA;  |  | 
+ |  |      e-mail: sprestel@fnal.gov                                               |  | 
+ |  |   Christine O. Rasmussen;  Department of Astronomy and Theoretical Physics,  |  | 
+ |  |      Lund University, Solvegatan 14A, SE-223 62 Lund, Sweden;                |  | 
+ |  |      e-mail: christine.rasmussen@thep.lu.se                                  |  | 
+ |  |   Peter Skands;  School of Physics,                                          |  | 
+ |  |      Monash University, PO Box 27, 3800 Melbourne, Australia;                |  | 
+ |  |      e-mail: peter.skands@monash.edu                                         |  | 
+ |  |                                                                              |  | 
+ |  |   The main program reference is 'An Introduction to PYTHIA 8.2',             |  | 
+ |  |   T. Sjostrand et al, Comput. Phys. Commun. 191 (2015) 159                   |  | 
+ |  |   [arXiv:1410.3012 [hep-ph]]                                                 |  | 
+ |  |                                                                              |  | 
+ |  |   The main physics reference is the 'PYTHIA 6.4 Physics and Manual',         |  | 
+ |  |   T. Sjostrand, S. Mrenna and P. Skands, JHEP05 (2006) 026 [hep-ph/0603175]  |  | 
+ |  |                                                                              |  | 
+ |  |   An archive of program versions and documentation is found on the web:      |  | 
+ |  |   http://www.thep.lu.se/Pythia                                               |  | 
+ |  |                                                                              |  | 
+ |  |   This program is released under the GNU General Public Licence version 2.   |  | 
+ |  |   Please respect the MCnet Guidelines for Event Generator Authors and Users. |  | 
+ |  |                                                                              |  | 
+ |  |   Disclaimer: this program comes without any guarantees.                     |  | 
+ |  |   Beware of errors and use common sense when interpreting results.           |  | 
+ |  |                                                                              |  | 
+ |  |   Copyright (C) 2017 Torbjorn Sjostrand                                      |  | 
+ |  |                                                                              |  | 
+ |  |                                                                              |  | 
+ |  *------------------------------------------------------------------------------*  | 
+ |                                                                                    | 
+ *------------------------------------------------------------------------------------* 
+
+
+ *-------  PYTHIA Process Initialization  --------------------------*
+ |                                                                  |
+ | We collide e- with e+ at a CM energy of 2.400e+02 GeV            |
+ |                                                                  |
+ |------------------------------------------------------------------|
+ |                                                    |             |
+ | Subprocess                                    Code |   Estimated |
+ |                                                    |    max (mb) |
+ |                                                    |             |
+ |------------------------------------------------------------------|
+ |                                                    |             |
+ | f fbar -> gamma*/Z0 gamma                      243 |   2.742e-08 |
+ |                                                                  |
+ *-------  End PYTHIA Process Initialization -----------------------*
+
+ *-------  PYTHIA Flag + Mode + Parm + Word + FVec + MVec + PVec + WVec Settings (changes only)  ------------------* 
+ |                                                                                                                 | 
+ | Name                                          |                      Now |      Default         Min         Max | 
+ |                                               |                          |                                      | 
+ | Beams:eCM                                     |                240.00000 |    14000.000    10.00000             | 
+ | Beams:idA                                     |                       11 |         2212                         | 
+ | Beams:idB                                     |                      -11 |         2212                         | 
+ | Beams:sigmaPzA                                |                  0.14400 |          0.0         0.0             | 
+ | Beams:sigmaPzB                                |                  0.14400 |          0.0         0.0             | 
+ | Init:showChangedParticleData                  |                      off |           on                         | 
+ | Main:numberOfEvents                           |                    10000 |         1000           0             | 
+ | Main:timesAllowErrors                         |                        3 |           10           0             | 
+ | Next:numberCount                              |                      100 |         1000           0             | 
+ | Next:numberShowEvent                          |                        0 |            1           0             | 
+ | Random:seed                                   |                   562554 |           -1               900000000 | 
+ | Random:setSeed                                |                       on |          off                         | 
+ | WeakBosonAndParton:ffbar2gmZgm                |                       on |          off                         | 
+ | WeakZ0:gmZmode                                |                        2 |            0           0           2 | 
+ |                                                                                                                 | 
+ *-------  End PYTHIA Flag + Mode + Parm + Word + FVec + MVec + PVec + WVec Settings  -----------------------------* 
+
+ --------  PYTHIA Info Listing  ---------------------------------------- 
+ 
+ Beam A: id =     11, pz =  1.200e+02, e =  1.200e+02, m =  5.110e-04.
+ Beam B: id =    -11, pz = -1.200e+02, e =  1.200e+02, m =  5.110e-04.
+
+ In 1: id =   11, x =  9.917e-01, pdf =  5.019e+00 at Q2 =  4.698e+03.
+ In 2: id =  -11, x =  1.000e+00, pdf =  4.425e+07 at same Q2.
+
+ Subprocess f fbar -> gamma*/Z0 gamma with code 243 is 2 -> 2.
+ It has sHat =  5.712e+04,    tHat = -4.272e+04,    uHat = -6.282e+03,
+       pTHat =  6.855e+01,   m3Hat =  9.009e+01,   m4Hat =  0.000e+00,
+    thetaHat =  2.409e+00,  phiHat =  4.593e+00.
+     alphaEM =  7.814e-03,  alphaS =  1.307e-01    at Q2 =  7.759e+03.
+
+ Impact parameter b =  0.000e+00 gives enhancement factor =  1.000e+00.
+ Max pT scale for MPI =  2.400e+02, ISR =  6.855e+01, FSR =  6.855e+01.
+ Number of MPI =     1, ISR =     1, FSRproc =     0, FSRreson =     0.
+
+ --------  End PYTHIA Info Listing  ------------------------------------
+
+ --------  PYTHIA Event Listing  (hard process)  -----------------------------------------------------------------------------------
+ 
+    no        id   name            status     mothers   daughters     colours      p_x        p_y        p_z         e          m 
+     0        90   (system)           -11     0     0     0     0     0     0      0.000      0.000      0.000    240.000    240.000
+     1        11   (e-)               -12     0     0     3     0     0     0      0.000      0.000    120.000    120.000      0.001
+     2       -11   (e+)               -12     0     0     4     0     0     0      0.000      0.000   -120.000    120.000      0.001
+     3        11   (e-)               -21     1     0     5     6     0     0      0.000      0.000    119.002    119.002      0.000
+     4       -11   (e+)               -21     2     0     5     6     0     0      0.000      0.000   -120.000    120.000      0.000
+     5        23   (Z0)               -22     3     4     7     8     0     0     -8.142    -68.060    -76.807    136.799     90.090
+     6        22   gamma               23     3     4     0     0     0     0      8.142     68.060     75.808    102.202      0.000
+     7        11   e-                  23     5     0     0     0     0     0     27.434      7.220    -29.973     41.269      0.001
+     8       -11   e+                  23     5     0     0     0     0     0    -35.576    -75.280    -46.834     95.531      0.001
+                                   Charge sum:  0.000           Momentum sum:      0.000      0.000     -0.998    239.002    238.999
+
+ --------  End PYTHIA Event Listing  -----------------------------------------------------------------------------------------------
+#--------------------------------------------------------------------------
+#                         FastJet release 3.2.0
+#                 M. Cacciari, G.P. Salam and G. Soyez                  
+#     A software package for jet finding and analysis at colliders      
+#                           http://fastjet.fr                           
+#	                                                                      
+# Please cite EPJC72(2012)1896 [arXiv:1111.6097] if you use this package
+# for scientific work and optionally PLB641(2006)57 [hep-ph/0512210].   
+#                                                                       
+# FastJet is provided without warranty under the terms of the GNU GPLv2.
+# It uses T. Chan's closest pair algorithm, S. Fortune's Voronoi code
+# and 3rd party plugin jet algorithms. See COPYING file for details.
+#--------------------------------------------------------------------------
+
+ Pythia::next(): 100 events have been generated 
+
+ Pythia::next(): 200 events have been generated 
+
+ Pythia::next(): 300 events have been generated 
+
+ Pythia::next(): 400 events have been generated 
+
+ Pythia::next(): 500 events have been generated 
+
+ Pythia::next(): 600 events have been generated 
+
+ Pythia::next(): 700 events have been generated 
+
+ Pythia::next(): 800 events have been generated 
+
+ Pythia::next(): 900 events have been generated 
+
+ Pythia::next(): 1000 events have been generated 
+
+ Pythia::next(): 1100 events have been generated 
+
+ Pythia::next(): 1200 events have been generated 
+
+ Pythia::next(): 1300 events have been generated 
+
+ Pythia::next(): 1400 events have been generated 
+
+ Pythia::next(): 1500 events have been generated 
+
+ Pythia::next(): 1600 events have been generated 
+
+ Pythia::next(): 1700 events have been generated 
+
+ Pythia::next(): 1800 events have been generated 
+
+ Pythia::next(): 1900 events have been generated 
+
+ Pythia::next(): 2000 events have been generated 
+
+ Pythia::next(): 2100 events have been generated 
+
+ Pythia::next(): 2200 events have been generated 
+
+ Pythia::next(): 2300 events have been generated 
+
+ Pythia::next(): 2400 events have been generated 
+
+ Pythia::next(): 2500 events have been generated 
+
+ Pythia::next(): 2600 events have been generated 
+
+ Pythia::next(): 2700 events have been generated 
+
+ Pythia::next(): 2800 events have been generated 
+
+ Pythia::next(): 2900 events have been generated 
+
+ Pythia::next(): 3000 events have been generated 
+
+ Pythia::next(): 3100 events have been generated 
+
+ Pythia::next(): 3200 events have been generated 
+
+ Pythia::next(): 3300 events have been generated 
+
+ Pythia::next(): 3400 events have been generated 
+
+ Pythia::next(): 3500 events have been generated 
+
+ Pythia::next(): 3600 events have been generated 
+
+ Pythia::next(): 3700 events have been generated 
+
+ Pythia::next(): 3800 events have been generated 
+
+ Pythia::next(): 3900 events have been generated 
+
+ Pythia::next(): 4000 events have been generated 
+
+ Pythia::next(): 4100 events have been generated 
+
+ Pythia::next(): 4200 events have been generated 
+
+ Pythia::next(): 4300 events have been generated 
+
+ Pythia::next(): 4400 events have been generated 
+
+ Pythia::next(): 4500 events have been generated 
+
+ Pythia::next(): 4600 events have been generated 
+
+ Pythia::next(): 4700 events have been generated 
+
+ Pythia::next(): 4800 events have been generated 
+
+ Pythia::next(): 4900 events have been generated 
+
+ Pythia::next(): 5000 events have been generated 
+
+ Pythia::next(): 5100 events have been generated 
+
+ Pythia::next(): 5200 events have been generated 
+
+ Pythia::next(): 5300 events have been generated 
+
+ Pythia::next(): 5400 events have been generated 
+
+ Pythia::next(): 5500 events have been generated 
+
+ Pythia::next(): 5600 events have been generated 
+
+ Pythia::next(): 5700 events have been generated 
+
+ Pythia::next(): 5800 events have been generated 
+
+ Pythia::next(): 5900 events have been generated 
+
+ Pythia::next(): 6000 events have been generated 
+
+ Pythia::next(): 6100 events have been generated 
+
+ Pythia::next(): 6200 events have been generated 
+
+ Pythia::next(): 6300 events have been generated 
+
+ Pythia::next(): 6400 events have been generated 
+
+ Pythia::next(): 6500 events have been generated 
+
+ Pythia::next(): 6600 events have been generated 
+
+ Pythia::next(): 6700 events have been generated 
+
+ Pythia::next(): 6800 events have been generated 
+
+ Pythia::next(): 6900 events have been generated 
+
+ Pythia::next(): 7000 events have been generated 
+
+ Pythia::next(): 7100 events have been generated 
+
+ Pythia::next(): 7200 events have been generated 
+
+ Pythia::next(): 7300 events have been generated 
+
+ Pythia::next(): 7400 events have been generated 
+
+ Pythia::next(): 7500 events have been generated 
+
+ Pythia::next(): 7600 events have been generated 
+
+ Pythia::next(): 7700 events have been generated 
+
+ Pythia::next(): 7800 events have been generated 
+
+ Pythia::next(): 7900 events have been generated 
+
+ Pythia::next(): 8000 events have been generated 
+
+ Pythia::next(): 8100 events have been generated 
+
+ Pythia::next(): 8200 events have been generated 
+
+ Pythia::next(): 8300 events have been generated 
+
+ Pythia::next(): 8400 events have been generated 
+
+ Pythia::next(): 8500 events have been generated 
+
+ Pythia::next(): 8600 events have been generated 
+
+ Pythia::next(): 8700 events have been generated 
+
+ Pythia::next(): 8800 events have been generated 
+
+ Pythia::next(): 8900 events have been generated 
+
+ Pythia::next(): 9000 events have been generated 
+
+ Pythia::next(): 9100 events have been generated 
+
+ Pythia::next(): 9200 events have been generated 
+
+ Pythia::next(): 9300 events have been generated 
+
+ Pythia::next(): 9400 events have been generated 
+
+ Pythia::next(): 9500 events have been generated 
+
+ Pythia::next(): 9600 events have been generated 
+
+ Pythia::next(): 9700 events have been generated 
+
+ Pythia::next(): 9800 events have been generated 
+
+ Pythia::next(): 9900 events have been generated 
+
+ *-------  PYTHIA Event and Cross Section Statistics  -------------------------------------------------------------*
+ |                                                                                                                 |
+ | Subprocess                                    Code |            Number of events       |      sigma +- delta    |
+ |                                                    |       Tried   Selected   Accepted |     (estimated) (mb)   |
+ |                                                    |                                   |                        |
+ |-----------------------------------------------------------------------------------------------------------------|
+ |                                                    |                                   |                        |
+ | f fbar -> gamma*/Z0 gamma                      243 |      302955      10000      10000 |   8.961e-10  3.671e-12 |
+ |                                                    |                                   |                        |
+ | sum                                                |      302955      10000      10000 |   8.961e-10  3.671e-12 |
+ |                                                                                                                 |
+ *-------  End PYTHIA Event and Cross Section Statistics ----------------------------------------------------------*
+
+ *-------  PYTHIA Error and Warning Messages Statistics  ----------------------------------------------------------* 
+ |                                                                                                                 | 
+ |  times   message                                                                                                | 
+ |                                                                                                                 | 
+ |      0   no errors or warnings to report                                                                        | 
+ |                                                                                                                 | 
+ *-------  End PYTHIA Error and Warning Messages Statistics  ------------------------------------------------------* 
+ee_Zgam_leptonic_0.root
+ee_Zgam_leptonic_0.txt
+ee_Zgam_leptonic_10.root
+ee_Zgam_leptonic_10.txt
+ee_Zgam_leptonic_11.root
+ee_Zgam_leptonic_11.txt
+ee_Zgam_leptonic_12.root
+ee_Zgam_leptonic_12.txt
+ee_Zgam_leptonic_13.root
+ee_Zgam_leptonic_13.txt
+ee_Zgam_leptonic_14.root
+ee_Zgam_leptonic_14.txt
+ee_Zgam_leptonic_15.root
+ee_Zgam_leptonic_15.txt
+ee_Zgam_leptonic_16.root
+ee_Zgam_leptonic_16.txt
+ee_Zgam_leptonic_17.root
+ee_Zgam_leptonic_17.txt
+ee_Zgam_leptonic_18.root
+ee_Zgam_leptonic_18.txt
+ee_Zgam_leptonic_19.root
+ee_Zgam_leptonic_19.txt
+ee_Zgam_leptonic_1.root
+ee_Zgam_leptonic_1.txt
+ee_Zgam_leptonic_20.root
+ee_Zgam_leptonic_20.txt
+ee_Zgam_leptonic_21.root
+ee_Zgam_leptonic_21.txt
+ee_Zgam_leptonic_22.root
+ee_Zgam_leptonic_22.txt
+ee_Zgam_leptonic_23.root
+ee_Zgam_leptonic_23.txt
+ee_Zgam_leptonic_24.root
+ee_Zgam_leptonic_24.txt
+ee_Zgam_leptonic_25.root
+ee_Zgam_leptonic_25.txt
+ee_Zgam_leptonic_26.root
+ee_Zgam_leptonic_26.txt
+ee_Zgam_leptonic_27.root
+ee_Zgam_leptonic_27.txt
+ee_Zgam_leptonic_28.root
+ee_Zgam_leptonic_28.txt
+ee_Zgam_leptonic_29.root
+ee_Zgam_leptonic_29.txt
+ee_Zgam_leptonic_2.root
+ee_Zgam_leptonic_2.txt
+ee_Zgam_leptonic_30.root
+ee_Zgam_leptonic_30.txt
+ee_Zgam_leptonic_31.root
+ee_Zgam_leptonic_31.txt
+ee_Zgam_leptonic_32.root
+ee_Zgam_leptonic_32.txt
+ee_Zgam_leptonic_33.root
+ee_Zgam_leptonic_33.txt
+ee_Zgam_leptonic_34.root
+ee_Zgam_leptonic_34.txt
+ee_Zgam_leptonic_35.root
+ee_Zgam_leptonic_35.txt
+ee_Zgam_leptonic_36.root
+ee_Zgam_leptonic_36.txt
+ee_Zgam_leptonic_37.root
+ee_Zgam_leptonic_37.txt
+ee_Zgam_leptonic_38.root
+ee_Zgam_leptonic_38.txt
+ee_Zgam_leptonic_39.root
+ee_Zgam_leptonic_39.txt
+ee_Zgam_leptonic_3.root
+ee_Zgam_leptonic_3.txt
+ee_Zgam_leptonic_40.root
+ee_Zgam_leptonic_40.txt
+ee_Zgam_leptonic_41.root
+ee_Zgam_leptonic_41.txt
+ee_Zgam_leptonic_42.root
+ee_Zgam_leptonic_42.txt
+ee_Zgam_leptonic_43.root
+ee_Zgam_leptonic_43.txt
+ee_Zgam_leptonic_44.root
+ee_Zgam_leptonic_44.txt
+ee_Zgam_leptonic_45.root
+ee_Zgam_leptonic_45.txt
+ee_Zgam_leptonic_46.root
+ee_Zgam_leptonic_46.txt
+ee_Zgam_leptonic_47.root
+ee_Zgam_leptonic_47.txt
+ee_Zgam_leptonic_48.root
+ee_Zgam_leptonic_48.txt
+ee_Zgam_leptonic_49.root
+ee_Zgam_leptonic_49.txt
+ee_Zgam_leptonic_4.root
+ee_Zgam_leptonic_4.txt
+ee_Zgam_leptonic_50.root
+ee_Zgam_leptonic_50.txt
+ee_Zgam_leptonic_51.txt
+ee_Zgam_leptonic_52.root
+ee_Zgam_leptonic_52.txt
+ee_Zgam_leptonic_53.root
+ee_Zgam_leptonic_53.txt
+ee_Zgam_leptonic_54.root
+ee_Zgam_leptonic_54.txt
+ee_Zgam_leptonic_55.root
+ee_Zgam_leptonic_55.txt
+ee_Zgam_leptonic_56.root
+ee_Zgam_leptonic_56.txt
+ee_Zgam_leptonic_57.root
+ee_Zgam_leptonic_57.txt
+ee_Zgam_leptonic_58.root
+ee_Zgam_leptonic_58.txt
+ee_Zgam_leptonic_59.root
+ee_Zgam_leptonic_59.txt
+ee_Zgam_leptonic_5.root
+ee_Zgam_leptonic_5.txt
+ee_Zgam_leptonic_60.root
+ee_Zgam_leptonic_60.txt
+ee_Zgam_leptonic_61.root
+ee_Zgam_leptonic_61.txt
+ee_Zgam_leptonic_62.root
+ee_Zgam_leptonic_62.txt
+ee_Zgam_leptonic_63.root
+ee_Zgam_leptonic_63.txt
+ee_Zgam_leptonic_64.root
+ee_Zgam_leptonic_64.txt
+ee_Zgam_leptonic_65.root
+ee_Zgam_leptonic_65.txt
+ee_Zgam_leptonic_66.root
+ee_Zgam_leptonic_66.txt
+ee_Zgam_leptonic_67.txt
+ee_Zgam_leptonic_68.root
+ee_Zgam_leptonic_68.txt
+ee_Zgam_leptonic_69.root
+ee_Zgam_leptonic_69.txt
+ee_Zgam_leptonic_6.root
+ee_Zgam_leptonic_6.txt
+ee_Zgam_leptonic_70.root
+ee_Zgam_leptonic_70.txt
+ee_Zgam_leptonic_71.root
+ee_Zgam_leptonic_71.txt
+ee_Zgam_leptonic_72.root
+ee_Zgam_leptonic_72.txt
+ee_Zgam_leptonic_73.root
+ee_Zgam_leptonic_73.txt
+ee_Zgam_leptonic_74.root
+ee_Zgam_leptonic_74.txt
+ee_Zgam_leptonic_75.root
+ee_Zgam_leptonic_75.txt
+ee_Zgam_leptonic_76.root
+ee_Zgam_leptonic_76.txt
+ee_Zgam_leptonic_77.txt
+ee_Zgam_leptonic_78.root
+ee_Zgam_leptonic_78.txt
+ee_Zgam_leptonic_79.root
+ee_Zgam_leptonic_79.txt
+ee_Zgam_leptonic_7.root
+ee_Zgam_leptonic_7.txt
+ee_Zgam_leptonic_80.root
+ee_Zgam_leptonic_80.txt
+ee_Zgam_leptonic_81.root
+ee_Zgam_leptonic_81.txt
+ee_Zgam_leptonic_82.root
+ee_Zgam_leptonic_82.txt
+ee_Zgam_leptonic_83.root
+ee_Zgam_leptonic_83.txt
+ee_Zgam_leptonic_84.root
+ee_Zgam_leptonic_84.txt
+ee_Zgam_leptonic_85.root
+ee_Zgam_leptonic_85.txt
+ee_Zgam_leptonic_86.root
+ee_Zgam_leptonic_86.txt
+ee_Zgam_leptonic_87.root
+ee_Zgam_leptonic_87.txt
+ee_Zgam_leptonic_88.root
+ee_Zgam_leptonic_88.txt
+ee_Zgam_leptonic_89.root
+ee_Zgam_leptonic_89.txt
+ee_Zgam_leptonic_8.root
+ee_Zgam_leptonic_8.txt
+ee_Zgam_leptonic_90.root
+ee_Zgam_leptonic_90.txt
+ee_Zgam_leptonic_91.root
+ee_Zgam_leptonic_91.txt
+ee_Zgam_leptonic_92.root
+ee_Zgam_leptonic_92.txt
+ee_Zgam_leptonic_93.txt
+ee_Zgam_leptonic_94.root
+ee_Zgam_leptonic_94.txt
+ee_Zgam_leptonic_95.root
+ee_Zgam_leptonic_95.txt
+ee_Zgam_leptonic_96.root
+ee_Zgam_leptonic_96.txt
+ee_Zgam_leptonic_97.root
+ee_Zgam_leptonic_97.txt
+ee_Zgam_leptonic_99.root
+ee_Zgam_leptonic_99.txt
+ee_Zgam_leptonic_9.root
+ee_Zgam_leptonic_9.txt
+
+Job finished at Wed Aug 16 15:13:03 CEST 2017 on node 
+ under linux version Scientific Linux CERN SLC release 6.9 (Carbon)
+
+CERN statistics: This process used approximately : 0:00:20 KSI2K hours (20 KSI2K seconds)
+                 This process corresponds to     : 0:01:20 HS06  hours (80 HS06  seconds)
