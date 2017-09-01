@@ -10,4 +10,3 @@ source /afs/cern.ch/exp/fcc/sw/0.8pre/setup.sh
 cd WorkDir/
 
 heppy /afs/cern.ch/work/e/eljones/public/FCCSamples/OutDir_hadronic_background_1M analysis_ee_Zgam_hadronic_cfg.py
-

@@ -35,10 +35,7 @@ Collider.SQRTS = 240.
 comp = cfg.Component(
     'ee_ZH_Z_Hgamgam',
     files = [
-        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_0.root',
-        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_1.root',
-        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_2.root',
-        '/afs/cern.ch/work/e/eljones/public/FCCSamples/run_01/ee_ZH_Z_Hgamgam_3.root'
+        'ee_ZH_Z_Hgamgam_0.root',
     ]
 )
 selectedComponents = [comp]
@@ -111,7 +108,7 @@ hreco = cfg.Analyzer(
     output_higgs = 'higgs',
     output_lead_photon = 'lead_photon',
     output_sub_lead_photon = 'sub_lead_photon',
-    input_photons = 'high_E_sel_iso_photons'
+    input_photons = 'photons'
 )
 
 # simple cut flow printout
@@ -121,6 +118,16 @@ selection = cfg.Analyzer(
     input_photons = 'photons',
     log_level = logging.INFO
 )
+
+from heppy.analyzers.examples.zh_hgamgam.Selection_2 import Selection_2
+selection_2 = cfg.Analyzer(
+    Selection_2,
+    input_lead_photon = 'lead_photon',
+    input_sub_lead_photon = 'sub lead photon',
+    input_higgs = 'higgs',
+    log_level = logging.INFO
+)
+
 
 # Analysis-specific ntuple producer
 from heppy.analyzers.examples.zh_hgamgam.TreeProducer import TreeProducer
@@ -140,8 +147,9 @@ sequence = cfg.Sequence(
     iso_photons,
     high_E_photons,
     high_E_sel_iso_photons,
+    selection,
     hreco, 
-    selection,  
+    selection_2, 
     tree,
     display
 )

@@ -1,0 +1,23 @@
+Counter analyzers :
+	 heppy.analyzers.fcc.Reader.Reader_1                            1000000 	 1.00 	 1.0000
+	 heppy.analyzers.Selector.Selector_1                            1000000 	 1.00 	 1.0000
+	 heppy.analyzers.PapasSim.PapasSim_papas                         999986 	 1.00 	 1.0000
+	 heppy.analyzers.PapasPFBlockBuilder.PapasPFBlockBuilder_1       999986 	 1.00 	 1.0000
+	 heppy.analyzers.PapasPFReconstructor.PapasPFReconstructor_1     999986 	 1.00 	 1.0000
+	 heppy.analyzers.Selector.Selector_photons                       999986 	 1.00 	 1.0000
+	 heppy.analyzers.IsolationAnalyzer.IsolationAnalyzer_1           999986 	 1.00 	 1.0000
+	 heppy.analyzers.Selector.Selector_high_E_photons                999986 	 1.00 	 1.0000
+	 heppy.analyzers.Selector.Selector_high_E_sel_iso_photons        999986 	 1.00 	 1.0000
+	 heppy.analyzers.examples.zh_hgamgam.HReconstruction.HReconstruction_1     10114 	 0.01 	 0.0101
+	 heppy.analyzers.examples.zh_hgamgam.Selection.Selection_1         3026 	 0.30 	 0.0030
+	 heppy.analyzers.examples.zh_hgamgam.TreeProducer.TreeProducer_1      3026 	 1.00 	 0.0030
+	 heppy.analyzers.PapasDisplay.PapasDisplay_papas                   3026 	 1.00 	 0.0030
+
+Counter cut_flow :
+	 All events                                                       10114 	 1.00 	 1.0000
+	 2 or more photons                                                10114 	 1.00 	 1.0000
+	 2 or more photons with E > 40 GeV                                10114 	 1.00 	 1.0000
+	 isolated photons                                                 10088 	 1.00 	 0.9974
+	 photon eta < 1.8                                                  3111 	 0.31 	 0.3076
+	 Higgs phi < 25 deg                                                3026 	 0.97 	 0.2992
+

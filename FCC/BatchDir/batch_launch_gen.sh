@@ -1,18 +1,10 @@
 #!/bin/bash
-echo "Current directory:"
-pwd
+cd ..
 
-cd /afs/cern.ch/work/e/eljones/public/FCCSamples/full_background_run_01/
+cd WorkDir
 
-pwd
-
-ls ./
-
-echo "Will source FCC environment now"
 source /cvmfs/fcc.cern.ch/sw/0.8.1/init_fcc_stack.sh
-echo $PATH
+
 mv /afs/cern.ch/user/e/eljones/private/hgamgam_analysis/FCC/BatchDir/$1 .
 
 fcc-pythia8-generate $1
-
-ls ./

@@ -1,0 +1,6 @@
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     2.84730e+02   2.31659e+00   9.68090e-03   1.43775e-05
+   2  Mean         1.25109e+02   5.45242e-03   5.96565e-05  -7.69212e-03
+   3  Sigma        8.32701e-01   4.03174e-03   6.30325e-06   1.66965e-01
+

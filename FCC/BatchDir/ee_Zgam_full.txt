@@ -32,6 +32,7 @@ Beams:sigmaPzB = 0.144
 
 Beams:eCM = 240.                 ! CM energy of collision
 
+HiggsSM:ffbar2gmZgmZ = on
 WeakZ0:gmZmode = 2
-WeakBosonAndParton:ffbar2gmZgm = on
-23:onMode = on
+
+23:OnMode = On
